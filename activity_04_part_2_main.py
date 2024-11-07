@@ -1,9 +1,12 @@
 """"
 Description: A client program written to verify correctness of 
 the activity classes.
+
 Author: ACE Faculty
-Edited by: {Student Name}
-Date: {Date}
+
+Edited by: Noah Manaigre
+
+Date: 2024-11-03
 """
 # REQUIREMENT - add import statements
 from to_do_list.to_do_list import ToDoList
